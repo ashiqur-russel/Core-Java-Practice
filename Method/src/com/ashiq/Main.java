@@ -19,7 +19,7 @@ public class Main {
 
     // Method for Calculate Score without parameter passing
 
-    public static void calculateScore() {
+    public static int calculateScore() {
         //int finalScore = 0;
         boolean gameOver = true;
         int score = 800;
@@ -32,13 +32,14 @@ public class Main {
 
             System.out.println("Your final Score is " + finalScore);
         }
+        return -1;
 
 
     }
 
     // Method for Calculate Score without parameter passing
 
-    public static void calculateScoreagain(boolean gameOver, int score, int levelCompleted, int bonus) {
+    public static int calculateScoreagain(boolean gameOver, int score, int levelCompleted, int bonus) {
 
 
         if (gameOver) {
@@ -47,6 +48,8 @@ public class Main {
 
             System.out.println("Your final Score is " + finalScore);
         }
+
+        return -1;
 
 
     }
