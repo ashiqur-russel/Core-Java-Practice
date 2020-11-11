@@ -6,7 +6,8 @@ public class Main {
     public static void main(String[] args) {
 
 
-        calculateScore();
+        int scoreResult = calculateScore();
+        System.out.println("Final Score is : " + scoreResult);
 
 
         boolean gameOver = true;
@@ -14,7 +15,9 @@ public class Main {
         int levelCompleted = 5;
         int bonus = 100;
 
-        calculateScoreagain(gameOver, score, levelCompleted, bonus);
+        int highScore = calculateScoreagain(gameOver, score, levelCompleted, bonus);
+        System.out.println("Final Score is : " + highScore);
+
     }
 
     // Method for Calculate Score without parameter passing
@@ -46,7 +49,6 @@ public class Main {
             int finalScore = score + (levelCompleted * 5);
             finalScore += 3000;
 
-            System.out.println("Your final Score is " + finalScore);
         }
 
         return -1;
