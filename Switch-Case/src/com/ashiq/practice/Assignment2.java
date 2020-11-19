@@ -2,8 +2,9 @@ package com.ashiq.practice;
 
 public class Assignment2 {
     public static void main(String[] args) {
-        double result = calSum(4, 7);
-        System.out.println(result);
+        double result = calSum(1, 1);
+        double result1 = calcNested(3, 5, 6);
+        System.out.println(result1);
 
     }
 
@@ -23,5 +24,24 @@ public class Assignment2 {
             }
             return 0.25 * sum;
         }
+    }
+
+
+    public static int calcNested(int n, int x, int y) {
+
+        int result1 = 0;
+        int productOfY = 1;
+        for (int k = 0; k <= n; k++) {
+
+            for (int j = 1; j <= k; j++) {
+                productOfY *= (y * j);
+
+
+            }
+            result1 += x + productOfY;
+            System.out.println(productOfY);
+        }
+
+        return result1;
     }
 }

@@ -28,7 +28,7 @@ public class EvenDigitSum {
         // check if the number is not 0 and not negative
         while (num != 0 && num > 0) {
 
-            // store the remainder of number to rem variable
+            // store the remainder of number to rem variable>
             int rem = num % 10;
 
             //Check the remainder id even or not, if even then add to the variable evenSum

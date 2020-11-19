@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Even Digit Sum/Even Digit Sum.iml" filepath="$PROJECT_DIR$/Even Digit Sum/Even Digit Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First And Last Digit Sum/First And Last Digit Sum.iml" filepath="$PROJECT_DIR$/First And Last Digit Sum/First And Last Digit Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Method/Method.iml" filepath="$PROJECT_DIR$/Method/Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Method Challange/Method Challange.iml" filepath="$PROJECT_DIR$/Method Challange/Method Challange.iml" />
       <module fileurl="file://$PROJECT_DIR$/Switch-Case/Switch-Case.iml" filepath="$PROJECT_DIR$/Switch-Case/Switch-Case.iml" />
