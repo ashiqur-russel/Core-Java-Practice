@@ -13,7 +13,9 @@ public class Assignment2 {
 
         double result = calSum(1, 1);
         double result1 = calcNested(3, 5, 6);
+        System.out.println(result);
         System.out.println(result1);
+
 
     }
 
@@ -61,7 +63,6 @@ public class Assignment2 {
 
             }
             result1 += x + productOfY;
-            System.out.println(productOfY);
         }
 
         return result1;
