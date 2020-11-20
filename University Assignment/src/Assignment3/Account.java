@@ -72,8 +72,12 @@ public class Account {
 
     public double transferTo(double amount, Account another) {
 
+
         if (this.balance > amount) {
             this.balance -= amount;
+
+            // save transferred amount to the another account
+            another.credit(amount);
         } else {
             System.out.println("Account balance insufficient. transaction cannot be posted");
         }
@@ -81,6 +85,9 @@ public class Account {
 
     }
 
+    public void checkAccountBalance() {
+        System.out.println("This account number (" + getAccountNumber() + ") has " + String.format("%.2f", getBalance()) + " on his account");
+    }
 
     public String toString() {
 
