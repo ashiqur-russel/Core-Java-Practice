@@ -1,17 +1,22 @@
-package com.ashiq.practice;
+package Assignment;
 
 public class Assignment2 {
+
     public static void main(String[] args) {
-        double result = calSum(1, 1);
+        double result = calSum(5, 8);
         double result1 = calcNested(3, 5, 6);
-        System.out.println(result1);
+        System.out.println(result);
 
     }
+
+    // Task 1 (Complete)
 
     public static double calSum(int n, double x) {
 
 
         double sum = 0;
+
+        // Return 0 , if function is not calculatable ( when  x = 0 )
 
         if (x == 0) {
             return 0;
@@ -26,6 +31,7 @@ public class Assignment2 {
         }
     }
 
+    // Task 2 ( Not complete )
 
     public static int calcNested(int n, int x, int y) {
 
@@ -39,7 +45,6 @@ public class Assignment2 {
 
             }
             result1 += x + productOfY;
-            System.out.println(productOfY);
         }
 
         return result1;
