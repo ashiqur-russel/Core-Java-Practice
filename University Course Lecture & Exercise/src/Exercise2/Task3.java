@@ -30,6 +30,9 @@ public class Task3 {
 
         if (wish.equals("y")) {
             System.out.println("Enter Number again");
+            int num2 = input.nextInt();
+
+
         }
 
     }
