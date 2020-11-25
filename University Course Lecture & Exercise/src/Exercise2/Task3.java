@@ -21,19 +21,52 @@ import java.util.Scanner;
 public class Task3 {
     public static void main(String[] args) {
 
-        Scanner input = new Scanner(System.in);
+        sumEvenOrOdd();
+    }
+
+    public static void sumEvenOrOdd() {
+
+        int sumOfEven = 0;
+        int sumOfOdd = 0;
+
+        String isContinue = "";
+
         System.out.print("Enter the number : ");
-        int num1 = input.nextInt();
-        System.out.println("Do you wish to continue y/n");
+        Scanner input = new Scanner(System.in);
 
-        String wish = input.next();
+        int num = input.nextInt();
 
-        if (wish.equals("y")) {
-            System.out.println("Enter Number again");
-            int num2 = input.nextInt();
-
-
+        if (num % 2 == 0) {
+            sumOfEven += num;
+        } else {
+            sumOfOdd += num;
         }
+
+
+        do {
+            System.out.print("Do you want to add number again? y/n --> ");
+            input = new Scanner(System.in);
+
+            isContinue = input.nextLine();
+            if (isContinue.equals("n")) {
+                break;
+            } else {
+                System.out.print("Enter Number again :");
+
+                num = input.nextInt();
+
+                if (num % 2 == 0) {
+                    sumOfEven += num;
+                } else {
+                    sumOfOdd += num;
+                }
+
+            }
+        } while (isContinue.equals("y"));
+
+        System.out.println("Sum of Odd numbers : " + sumOfOdd);
+
+        System.out.println("Sum of Even numbers : " + sumOfEven);
 
     }
 
