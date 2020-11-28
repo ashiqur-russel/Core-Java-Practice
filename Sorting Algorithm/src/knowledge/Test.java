@@ -4,6 +4,7 @@ public class Test {
 
     public static void main(String[] args) {
         int[] num = {-3, 4, 0, 5, 9, 11, 6};
+        /*
 
         for (int i = 0; i < num.length - 1; i++) {
             for (int j = 0; j < num.length - i - 1; j++) {
@@ -16,6 +17,8 @@ public class Test {
             System.out.println(num[i]);
 
         }
+
+         */
 
         // Selection sort test
 

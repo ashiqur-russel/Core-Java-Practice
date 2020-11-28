@@ -90,8 +90,6 @@ public class Account {
     }
 
     public String toString() {
-
-
         return " A/C no : " + this.accountNumber + "  " + "Balance = " + String.format("%.2f", getBalance());
     }
 
