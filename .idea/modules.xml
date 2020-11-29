@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array Practice/Array Practice.iml" filepath="$PROJECT_DIR$/Array Practice/Array Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Even Digit Sum/Even Digit Sum.iml" filepath="$PROJECT_DIR$/Even Digit Sum/Even Digit Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/University Course Lecture &amp; Exercise/Exercise 2.iml" filepath="$PROJECT_DIR$/University Course Lecture &amp; Exercise/Exercise 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/First And Last Digit Sum/First And Last Digit Sum.iml" filepath="$PROJECT_DIR$/First And Last Digit Sum/First And Last Digit Sum.iml" />
