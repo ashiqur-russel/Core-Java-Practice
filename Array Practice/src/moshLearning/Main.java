@@ -7,7 +7,7 @@ public class Main {
         item.insert(3);
         item.insert(2);
         item.insert(13);
-
+        item.insert(-3);
 
         item.print();
     }

@@ -5,11 +5,23 @@ public class Array {
     private int count = 0;
 
     public Array(int itemNo) {
+
         items = new int[itemNo];
     }
 
     //Insert item to the Array
     public void insert(int item) {
+
+        if (items.length == count) {
+            int[] newItems = new int[count * 2];
+            for (int i = 0; i < count; i++) {
+                newItems[i] = items[i];
+            }
+
+            items = newItems;
+
+        }
+
         items[count] = item;
         count++;
     }
