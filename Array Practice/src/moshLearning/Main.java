@@ -10,5 +10,10 @@ public class Main {
         item.insert(-3);
 
         item.print();
+
+        item.delete(2);
+
+        item.print();
+
     }
 }

@@ -29,8 +29,22 @@ public class Array {
     // Method for print Array
     public void print() {
         for (int i = 0; i < count; i++) {
-            System.out.println(items[i]);
+            System.out.print(items[i] + " ");
         }
+        System.out.println();
+    }
+
+    // Method for print Array
+    public void delete(int position) {
+
+        for (int j = position; j < count - 1; j++) {
+
+            items[position] = items[position + 1];
+            count--;
+
+
+        }
+
     }
 
 }
