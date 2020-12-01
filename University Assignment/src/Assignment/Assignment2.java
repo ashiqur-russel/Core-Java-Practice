@@ -6,6 +6,8 @@ public class Assignment2 {
         double result = calSum(5, 8);
         double result1 = calcNested(3, 5, 6);
         System.out.println(result);
+        System.out.println(result1);
+
 
     }
 
@@ -31,7 +33,7 @@ public class Assignment2 {
         }
     }
 
-    // Task 2 ( Not complete )
+    // Task 2
 
     public static int calcNested(int n, int x, int y) {
 
@@ -40,13 +42,13 @@ public class Assignment2 {
         for (int k = 0; k <= n; k++) {
 
             for (int j = 1; j <= k; j++) {
-                productOfY *= (y * j);
-
+                productOfY *= y;
 
             }
             result1 += x + productOfY;
+            productOfY = 1;
         }
 
-        return result1;
+        return 2 + result1;
     }
 }
