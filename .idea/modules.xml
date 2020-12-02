@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/University Course Lecture &amp; Exercise/5. Array String.iml" filepath="$PROJECT_DIR$/University Course Lecture &amp; Exercise/5. Array String.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array Practice/Array Practice.iml" filepath="$PROJECT_DIR$/Array Practice/Array Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Even Digit Sum/Even Digit Sum.iml" filepath="$PROJECT_DIR$/Even Digit Sum/Even Digit Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/University Course Lecture &amp; Exercise/Exercise 2.iml" filepath="$PROJECT_DIR$/University Course Lecture &amp; Exercise/Exercise 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/First And Last Digit Sum/First And Last Digit Sum.iml" filepath="$PROJECT_DIR$/First And Last Digit Sum/First And Last Digit Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hacker Rank Code Solve/Hacker Rank Code Solve.iml" filepath="$PROJECT_DIR$/Hacker Rank Code Solve/Hacker Rank Code Solve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/Linked List.iml" filepath="$PROJECT_DIR$/Linked List/Linked List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Method/Method.iml" filepath="$PROJECT_DIR$/Method/Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Method Challange/Method Challange.iml" filepath="$PROJECT_DIR$/Method Challange/Method Challange.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting Algorithm/Sorting Algorithm.iml" filepath="$PROJECT_DIR$/Sorting Algorithm/Sorting Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Switch-Case/Switch-Case.iml" filepath="$PROJECT_DIR$/Switch-Case/Switch-Case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/University Assignment/University Assignment.iml" filepath="$PROJECT_DIR$/University Assignment/University Assignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/University Course Lecture &amp; Exercise/University Course Lecture &amp; Exercise.iml" filepath="$PROJECT_DIR$/University Course Lecture &amp; Exercise/University Course Lecture &amp; Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/University Lecture &amp; Exercise/University Lecture &amp; Exercise.iml" filepath="$PROJECT_DIR$/University Lecture &amp; Exercise/University Lecture &amp; Exercise.iml" />
