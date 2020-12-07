@@ -8,22 +8,19 @@ public class Assignment4 {
 
         // Array of Task 1
         int[] values = {9, -3, 5, 0, 1};
-
+        System.out.print("After Sorting : ");
+        sort(values);
+        System.out.println();
+        System.out.println();
 
         // Array of Task 2
         int[] array = {1, 1, 2, 3, 11, 12, 13, 24, 38, 55};
 
         /* check all the validation for code is ok for task 3 */
-        System.out.println("Array is [ 1, 1, 2, 3, 11, 12, 13, 24, 38, 55 ]");
-        System.out.println(" find index of  -1 :" + find(array, -1));
-        System.out.println(" find index of  0 :" + find(array, 0));
-        System.out.println(" find index of  1 :" + find(array, 1));
-        System.out.println(" find index of  2 :" + find(array, 2));
-        System.out.println(" find index of  4 :" + find(array, 4));
-        System.out.println(" find index of  7 :" + find(array, 7));
-        System.out.println(" find index of  44 :" + find(array, 44));
-        System.out.println(" find index of  55 :" + find(array, 55));
-        System.out.println(" find index of  59 :" + find(array, 59));
+        System.out.println(find(array, 3));
+        System.out.println(find(array, 0));
+        System.out.println(find(array, 7));
+
 
         System.out.println();
 
@@ -36,7 +33,16 @@ public class Assignment4 {
 
     }
 
-    // Task 1
+    /**
+     * Task 1
+     * <p>
+     * Write a Bubble Sort algorithm that repeatedly goes through an array and swaps adjacent elements that are not in order.
+     * Function should do nothing with empty array Function should do nothing with one value Function should sort the given values
+     * Function name: public void sort(int[] numbers) Example: int[] values = { 9, -3, 5, 0, 1};
+     * int[] expectedOrder = { -3, 0, 1, 5, 9};
+     *
+     * @param numbers
+     */
 
     public static void sort(int[] numbers) {
 
@@ -67,26 +73,22 @@ public class Assignment4 {
 
     }
 
-
-    // Task 2
-
-    public String decimalToBinary(int number) {
-
-        String result = " ";
-
-        while (number > 0) {
-
-            int reminder = number % 2;
-
-            result = reminder + result;
-
-            number = number / 2;
-        }
-
-        return result;
-    }
-
-    //Task 3
+    /**
+     * Task 3
+     *
+     * Write a Binary Search algorithm for finding an element in a sorted list.
+     * We assume that Input array must be sorted
+     * Function should return index of target element when found
+     * Function should return negative index minus one of insertion point of target element, in case when was not found i.e. expected number is not found return a pointer to a place where it can be inserted
+     * Function name: public static int find(int[] numbers, int numberToCheck) Example:
+     * int[] array = { 1, 1, 2, 3, 11, 12, 13, 24, 38, 55 };
+     * find (array, 3) result should be 3 find(array, 0) result should be -1 find(array, 7) result should be -5
+     * This means that 4 was not found in the list, we calculated it’s insertion point that would be after 3 and before 11 which makes its index point 4 now we have to display it in negative index minus one that would become -4-1= -5
+     *
+     * @param numbers
+     * @param numberToCheck
+     * @return
+     */
 
     public static int find(int[] numbers, int numberToCheck) {
 
@@ -111,6 +113,33 @@ public class Assignment4 {
             left = left + 1;
         return -(left + 1);
 
+    }
+
+    /**
+     * Task 2
+     * <p>
+     * Write a function which converts which converts a positive interger in binary value represention in a string.
+     * Function name: public String decimalToBinary(int number) Example: number 17
+     * Output :10001
+     *
+     * @param number
+     * @return
+     */
+
+    public String decimalToBinary(int number) {
+
+        String result = " ";
+
+        while (number > 0) {
+
+            int reminder = number % 2;
+
+            result = reminder + result;
+
+            number = number / 2;
+        }
+
+        return result;
     }
 
 }
