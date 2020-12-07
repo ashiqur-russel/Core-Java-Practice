@@ -5,15 +5,17 @@ public class Assignment4 {
     // Main method
 
     public static void main(String[] args) {
+
+        // Array of Task 1
         int[] values = {9, -3, 5, 0, 1};
 
-        int[] array = {1, 1, 2, 3, 11, 12, 13, 24, 38, 55};
 
+        // Array of Task 2
+        int[] array = {1, 1, 2, 3, 11, 12, 13, 24, 38, 55};
 
         /* check all the validation for code is ok for task 3 */
         System.out.println("Array is [ 1, 1, 2, 3, 11, 12, 13, 24, 38, 55 ]");
-        ;
-        System.out.println(" find index of  0 :" + find(array, -1));
+        System.out.println(" find index of  -1 :" + find(array, -1));
         System.out.println(" find index of  0 :" + find(array, 0));
         System.out.println(" find index of  1 :" + find(array, 1));
         System.out.println(" find index of  2 :" + find(array, 2));
@@ -23,6 +25,12 @@ public class Assignment4 {
         System.out.println(" find index of  55 :" + find(array, 55));
         System.out.println(" find index of  59 :" + find(array, 59));
 
+        System.out.println();
+
+        // Method call for Decimal to Binary convert with print
+
+        System.out.println(decimalToBinary(10));
+        ;
 
     }
 
@@ -57,6 +65,24 @@ public class Assignment4 {
 
     }
 
+
+    // Task 2
+
+    public static String decimalToBinary(int number) {
+
+        String result = " ";
+
+        while (number > 0) {
+
+            int reminder = number % 2;
+
+            result = reminder + result;
+
+            number = number / 2;
+        }
+
+        return result;
+    }
 
     //Task 3
 
