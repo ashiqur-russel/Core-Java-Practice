@@ -27,10 +27,12 @@ public class Assignment4 {
 
         System.out.println();
 
-        // Method call for Decimal to Binary convert with print
+        // Method call for Decimal to Binary convert with print.Calling non static Method
 
-        System.out.println(decimalToBinary(10));
-        ;
+        Assignment4 task2 = new Assignment4();
+        System.out.println(task2.decimalToBinary(10));
+
+
 
     }
 
@@ -68,7 +70,7 @@ public class Assignment4 {
 
     // Task 2
 
-    public static String decimalToBinary(int number) {
+    public String decimalToBinary(int number) {
 
         String result = " ";
 
