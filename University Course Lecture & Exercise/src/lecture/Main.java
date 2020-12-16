@@ -5,12 +5,7 @@ public class Main {
         System.out.println(Person.numPerson);
 
 
-        Person p1 = new Person();
-        Person p2 = new Person();
-        System.out.println(Person.numPerson);
-
-
-        Person p3 = new Person(34);
+        Person p1 = new Person("john", "Rusho", 3);
 
         Person p4 = new Person("John", "Doe", 4);
 
