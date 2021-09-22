@@ -2,18 +2,15 @@ package exam;
 
 public class Ballot {
 
-    Vote vote;
-    Ballot nextVote;
+    //Attributes
+    public Vote voteData;
+    public Ballot next;
 
-    public Ballot(Vote vote) {
-        this.vote = vote;
-        this.nextVote = null;
-
+    //Constructor
+    Ballot(Vote vote) {
+        this.voteData = vote;
+        this.next = null;
     }
-
-    ;
-
-    public enum Vote {YES, NO, UNDECIDED}
 
 
 }
