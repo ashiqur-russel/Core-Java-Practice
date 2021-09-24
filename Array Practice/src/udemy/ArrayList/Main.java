@@ -82,7 +82,7 @@ public class Main {
         int itemNo = scanner.nextInt();
         scanner.nextLine();
 
-        grocceryList.removeItem(itemNo);
+        grocceryList.removeItem(itemNo - 1);
 
     }
 
