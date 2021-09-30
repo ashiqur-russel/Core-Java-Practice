@@ -6,6 +6,9 @@ public class TeamMain {
         BaseballPlayer pat = new BaseballPlayer("Pat");
         SoccerPlayer beck = new SoccerPlayer("Beck");
 
+
+        // Any game players are added in team( it shouldn't be )
+
         Team india = new Team("India");
         india.addPlayer(joe);
         india.addPlayer(pat);
