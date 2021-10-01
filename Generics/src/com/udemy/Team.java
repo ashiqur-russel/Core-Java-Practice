@@ -7,6 +7,7 @@ public class Team<T extends Player> {
     int won = 0;
     int lost = 0;
     int tied = 0;
+    String message;
     private String name;
     private ArrayList<T> members = new ArrayList<>();
 
@@ -36,14 +37,18 @@ public class Team<T extends Player> {
     public void matchResult(Team opponent, int ourScore, int theirScore) {
         if (ourScore > theirScore) {
             won++;
+            message = " beat ";
         } else if (ourScore == theirScore) {
             tied++;
+            message = " tired with ";
         } else {
             lost++;
+            message = " Lost to ";
         }
         played++;
 
         if (opponent != null) {
+            System.out.println(this.getName() + message + opponent.getName());
             opponent.matchResult(null, theirScore, ourScore);
         }
     }

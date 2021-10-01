@@ -22,5 +22,15 @@ public class TeamMain {
 
         Team<SoccerPlayer> brokenTeam = new Team<>("This won't Work");
         brokenTeam.addPlayer(beck);
+
+        Team<FootballPlayer> ger = new Team<>("Germany");
+        Team<FootballPlayer> eng = new Team<>("England");
+
+        ger.matchResult(eng, 1, 0);
+        ger.matchResult(india, 3, 8);
+
+        Ban.matchResult(india, 2, 1);
+        Ban.matchResult(ger, 4, 5);
+
     }
 }
