@@ -9,11 +9,18 @@ public class TeamMain {
 
         // Any game players are added in team( it shouldn't be )
 
-        Team india = new Team("India");
+        Team<FootballPlayer> india = new Team("India");
         india.addPlayer(joe);
-        india.addPlayer(pat);
-        india.addPlayer(beck);
+
+        // india.addPlayer(pat);
+        //india.addPlayer(beck);
 
         System.out.println(india.numPlayers());
+
+        Team<BaseballPlayer> Ban = new Team<>("Bangladesh");
+        Ban.addPlayer(pat);
+
+        Team<SoccerPlayer> brokenTeam = new Team<>("This won't Work");
+        brokenTeam.addPlayer(beck);
     }
 }
