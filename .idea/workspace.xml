@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="acd5ce9f-0a4b-4e2d-af13-693ae457b92e" name="Default Changelist" comment="Traditional way how to construct obeject in java">
+      <change afterPath="$PROJECT_DIR$/Array Practice/src/com/tim/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interfaces/src/com/basic/DeskPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interfaces/src/com/basic/ITelephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interfaces/src/com/basic/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interfaces/src/com/basic/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/src/com/_1tim/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/src/com/_1tim/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Edureka/src/co/edureka/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/Edureka/src/co/edureka/Client.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/University Assignment</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="MOHAMMAD ASHIQUR RAHMAN &lt;28604009+jahajipola@users.noreply.github.com&gt;" />
+        <option value="MOHAMMAD ASHIQUR RAHMAN" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Composition/src/timudemy/Main.java" />
+        <option value="$PROJECT_DIR$/Test Spring Boot Project/src/main/java/com/testproject/TestprojectApplication.java" />
+        <option value="$PROJECT_DIR$/Test Spring Boot Project/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/Test Spring Boot Project/src/main/resources/static/hello.html" />
+        <option value="$PROJECT_DIR$/Test Spring Boot Project/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/Test Spring Boot Project/src/main/java/TopicController/TopicController.java" />
+        <option value="$PROJECT_DIR$/Test Spring Boot Project/src/main/resources/templates/topic.html" />
+        <option value="$PROJECT_DIR$/Test Spring Boot Project/src/main/java/com/testproject/TopicController/TopicController.java" />
+        <option value="$PROJECT_DIR$/Test Spring Boot Project/src/main/java/com/testproject/WebController.java" />
+        <option value="$PROJECT_DIR$/Test Spring Boot Project/src/main/resources/templates/hello.html" />
+        <option value="$PROJECT_DIR$/University Course Lecture &amp; Exercise/src/chapter6/CharInString.java" />
+        <option value="$PROJECT_DIR$/University Course Lecture &amp; Exercise/src/chapter8/ExampleEncapsulation.java" />
+        <option value="$PROJECT_DIR$/University Course Lecture &amp; Exercise/src/chapter8/Person.java" />
+        <option value="$PROJECT_DIR$/University Course Lecture &amp; Exercise/src/chapter8/Bank.java" />
+        <option value="$PROJECT_DIR$/University Course Lecture &amp; Exercise/src/chapter8/BankAccount.java" />
+        <option value="$PROJECT_DIR$/University Course Lecture &amp; Exercise/src/chapter8/Test.java" />
+        <option value="$PROJECT_DIR$/Exam/src/exam/Ballot.java" />
+        <option value="$PROJECT_DIR$/Exam/src/exam/Vote.java" />
+        <option value="$USER_HOME$/Downloads/mockExamSampleSolutions/mockExamTask3SampleSolution/VoteListTest.java" />
+        <option value="$USER_HOME$/Downloads/mockExamSampleSolutions/mockExamTask3SampleSolution/VoteList.java" />
+        <option value="$PROJECT_DIR$/Exam/src/exam/voteList.java" />
+        <option value="$PROJECT_DIR$/University Course Lecture &amp; Exercise/src/chapter12/StringTest.java" />
+        <option value="$PROJECT_DIR$/University Course Lecture &amp; Exercise/src/chapter4/ProgrammingBasics.java" />
+        <option value="$PROJECT_DIR$/University Course Lecture &amp; Exercise/src/Chapter5/Person.java" />
+        <option value="$PROJECT_DIR$/University Course Lecture &amp; Exercise/src/Chapter5/Main.java" />
+        <option value="$PROJECT_DIR$/University Course Lecture &amp; Exercise/src/Chapter5/ArrayStringObject.java" />
+        <option value="$PROJECT_DIR$/2D Array/src/geeksforgeeks/ArrayDeclaration.java" />
+        <option value="$PROJECT_DIR$/2D Array/src/list/List.java" />
+        <option value="$PROJECT_DIR$/Jagged Array/src/jaggedarray/Test.java" />
+        <option value="$PROJECT_DIR$/Jagged Array/src/jaggedarray/MaxRowAndCol.java" />
+        <option value="$PROJECT_DIR$/Jagged Array/src/jaggedarray/MaxElementOfColEach.java" />
+        <option value="$PROJECT_DIR$/Jagged Array/src/jaggedarray/Array.java" />
+        <option value="$PROJECT_DIR$/University Course Lecture &amp; Exercise/src/Exercise7/Supermarket.java" />
+        <option value="$PROJECT_DIR$/University Course Lecture &amp; Exercise/src/Exercise7/Customer.java" />
+        <option value="$PROJECT_DIR$/Final Exam/src/exam.java" />
+        <option value="$PROJECT_DIR$/Final Exam/src/Task2a.java" />
+        <option value="$PROJECT_DIR$/Final Exam/src/Task2b.java" />
+        <option value="$USER_HOME$/Downloads/Main2b.java" />
+        <option value="$PROJECT_DIR$/Final Exam/src/list/ProductType.java" />
+        <option value="$PROJECT_DIR$/Final Exam/src/list/List.java" />
+        <option value="$PROJECT_DIR$/Final Exam/src/list/Record.java" />
+        <option value="$PROJECT_DIR$/Final Exam/src/Task4.java" />
+        <option value="$PROJECT_DIR$/Final Exam/src/list/Main.java" />
+        <option value="$PROJECT_DIR$/OOP/src/polymorphism/Ford.java" />
+        <option value="$PROJECT_DIR$/OOP/src/polymorphism/Main.java" />
+        <option value="$PROJECT_DIR$/Array Practice/src/udemy/Main.java" />
+        <option value="$PROJECT_DIR$/Array Practice/src/udemy/Array.java" />
+        <option value="$PROJECT_DIR$/Array Practice/src/udemy/Minimum.java" />
+        <option value="$PROJECT_DIR$/Array Practice/src/udemy/ArrayList.java" />
+        <option value="$PROJECT_DIR$/Array Practice/src/udemy/ArrayList/GrocceryList.java" />
+        <option value="$PROJECT_DIR$/Array Practice/src/udemy/ArrayList/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="4" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="25" />
+    <option name="width" value="1440" />
+    <option name="height" value="790" />
+  </component>
+  <component name="ProjectId" id="1yrk4eGmVMRlWkKSzRFlOUlaMDP" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Core-Java-Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core-Java-Practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core-Java-Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core-Java-Practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Array Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core-Java-Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core-Java-Practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Array Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core-Java-Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core-Java-Practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Array Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="udemy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core-Java-Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core-Java-Practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Array Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core-Java-Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core-Java-Practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Linked List" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core-Java-Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core-Java-Practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Linked List" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core-Java-Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core-Java-Practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Linked List" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Telusko" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Test Spring Boot Project/src/main/java/com/testproject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="polymorphism" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.edureka.Client" />
+      <module name="Edureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.edureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.HTest" />
+      <module name="Exception" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._1tim.Main" />
+      <module name="Linked List" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com._1tim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.Main" />
+      <module name="Interfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tim.Main" />
+      <module name="Array Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-11.0.12/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.udemy.Main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exception/src/com/udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selection" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.Selection" />
+      <module name="Sorting Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestprojectApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.testproject.TestprojectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestprojectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Test Spring Boot Project" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.testproject.TestprojectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Selection" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.HTest" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Spring Boot.TestprojectApplication" />
+      <item itemvalue="Spring Boot.TestprojectApplication (1)" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.HTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acd5ce9f-0a4b-4e2d-af13-693ae457b92e" name="Default Changelist" comment="" />
+      <created>1605051013594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605051013594</updated>
+      <workItem from="1605051014848" duration="16581000" />
+      <workItem from="1605484747480" duration="1196000" />
+      <workItem from="1605755433112" duration="100000" />
+      <workItem from="1605804368284" duration="6996000" />
+      <workItem from="1605829296028" duration="8154000" />
+      <workItem from="1606013163520" duration="52000" />
+      <workItem from="1606072866733" duration="4907000" />
+      <workItem from="1606257674016" duration="6613000" />
+      <workItem from="1606347563275" duration="23951000" />
+      <workItem from="1606592883679" duration="4291000" />
+      <workItem from="1606692176613" duration="3948000" />
+      <workItem from="1606782157091" duration="941000" />
+      <workItem from="1606842737253" duration="8274000" />
+      <workItem from="1606960671483" duration="3830000" />
+      <workItem from="1607136888431" duration="10630000" />
+      <workItem from="1607291811213" duration="17961000" />
+      <workItem from="1607460219994" duration="12650000" />
+      <workItem from="1607522470384" duration="794000" />
+      <workItem from="1607571338565" duration="555000" />
+      <workItem from="1607869465309" duration="4794000" />
+      <workItem from="1608036637475" duration="8422000" />
+      <workItem from="1609542419057" duration="4167000" />
+      <workItem from="1609975150035" duration="777000" />
+      <workItem from="1609982712768" duration="1649000" />
+      <workItem from="1609985873535" duration="2377000" />
+      <workItem from="1610228843170" duration="1947000" />
+      <workItem from="1613503605334" duration="1863000" />
+      <workItem from="1613758480692" duration="6444000" />
+      <workItem from="1613812864522" duration="9024000" />
+      <workItem from="1613961306100" duration="4000" />
+      <workItem from="1614103504220" duration="7971000" />
+      <workItem from="1614133135284" duration="228000" />
+      <workItem from="1614260651375" duration="1716000" />
+      <workItem from="1614297410344" duration="370000" />
+      <workItem from="1614339008929" duration="7375000" />
+      <workItem from="1624629689450" duration="470000" />
+      <workItem from="1632256567480" duration="9577000" />
+      <workItem from="1632489752125" duration="143000" />
+      <workItem from="1633016916313" duration="2781000" />
+      <workItem from="1633019979352" duration="11622000" />
+      <workItem from="1633979476760" duration="3442000" />
+      <workItem from="1633994697859" duration="1554000" />
+      <workItem from="1634668752886" duration="1475000" />
+      <workItem from="1640646623657" duration="3315000" />
+      <workItem from="1640764108952" duration="2089000" />
+    </task>
+    <task id="LOCAL-00018" summary="sorting algorithm knowledge test with selection sort">
+      <created>1606440787061</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1606440787061</updated>
+    </task>
+    <task id="LOCAL-00019" summary="sorting algorithm practice and learn ( Selection sort )">
+      <created>1606513171523</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1606513171523</updated>
+    </task>
+    <task id="LOCAL-00020" summary="sorting algorithm practice and learn (bubble sort )">
+      <created>1606596522547</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1606596522547</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Created package where practicing Array to insert element  to Array">
+      <created>1606620738230</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1606620738231</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Created a variable where item will be saved , a constructor ot pass the size of array, a method to print the Array list inserted and Array object to the main class.">
+      <created>1606621120768</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1606621120768</updated>
+    </task>
+    <task id="LOCAL-00023" summary="update : Created insert() Method for insert item to the list">
+      <created>1606621625925</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1606621625925</updated>
+    </task>
+    <task id="LOCAL-00024" summary="update : item can be inserted on array as much as  I want">
+      <created>1606692236649</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1606692236649</updated>
+    </task>
+    <task id="LOCAL-00025" summary="update : delete item from array using index ( new Method for delete )">
+      <created>1606695963049</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1606695963049</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Hacker Rank code 1D Array problem Solved">
+      <created>1606782565815</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1606782565815</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Assignment 2 Task 2 completed">
+      <created>1606843910036</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1606843910036</updated>
+    </task>
+    <task id="LOCAL-00028" summary="practice linked list and Algorithm">
+      <created>1606877555711</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1606877555711</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Linked list Method add for insert ( Null pointer exception showed )">
+      <created>1606879431515</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1606879431515</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Linked list implementation : add method complete -&gt; ( Null pointer exception :-&gt; Solved )">
+      <created>1606966187096</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1606966187096</updated>
+    </task>
+    <task id="LOCAL-00031" summary="find the sum of max from each column ( works on ixi ex: 3x3 or 2x2, 4x4 array )">
+      <created>1607183158693</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1607183158693</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Binary search algorithm implementation for University Assignment">
+      <created>1607212751125</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1607212751125</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Binary search algorithm implementation for University Assignment (update : task 3 all three problem solved)">
+      <created>1607299163563</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1607299163563</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Task 3 completed with all the error validation">
+      <created>1607380824867</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1607380824868</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Task 2 complete : Decimal to Binary Conversion">
+      <created>1607383795205</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1607383795205</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Task 2 complete : Calling Non static method to main method by creating Instance of that class">
+      <created>1607384617389</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1607384617389</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Task details in comment for Assignment 4">
+      <created>1607385491276</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1607385491276</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Assignment 5 task 1 completed">
+      <created>1607477625300</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1607477625300</updated>
+    </task>
+    <task id="LOCAL-00039" summary="University Mock Test task solved during online exam">
+      <created>1608145848349</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1608145848349</updated>
+    </task>
+    <task id="LOCAL-00040" summary="University Mock Test task check lower triangular in array">
+      <created>1608328819292</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1608328819292</updated>
+    </task>
+    <task id="LOCAL-00041" summary="University Mock Test task check diagonal in array">
+      <created>1608328924260</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1608328924260</updated>
+    </task>
+    <task id="LOCAL-00042" summary="reference in memory">
+      <created>1609543814860</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1609543814860</updated>
+    </task>
+    <task id="LOCAL-00043" summary="has a relation in composition OOP">
+      <created>1609546580013</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1609546580013</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Spring Boot Project file  created">
+      <created>1609984723717</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1609984723717</updated>
+    </task>
+    <task id="LOCAL-00045" summary="index page created">
+      <created>1609984823247</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1609984823247</updated>
+    </task>
+    <task id="LOCAL-00046" summary="created web controller">
+      <created>1609986403717</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1609986403717</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Test project done and compiled successfully">
+      <created>1609987103725</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1609987103725</updated>
+    </task>
+    <task id="LOCAL-00048" summary="RestController annotation">
+      <created>1610228916006</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1610228916006</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Implemented a method that returns how often a character is contained in a string">
+      <created>1613504337196</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1613504337196</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Implemented a method that returns how often a character is contained in a string">
+      <created>1613519271603</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1613519271605</updated>
+    </task>
+    <task id="LOCAL-00051" summary="String comparison with == &amp; equal">
+      <created>1613847122370</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1613847122371</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Array practice -&gt; Input value from keyboard and find minimum value">
+      <created>1632345212338</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1632345212339</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Code for making shopping list that will add,remove,modify,remove and search in List using ArrayList">
+      <created>1632348783687</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1632348783687</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Code for making shopping list that will add,remove,modify,remove and search in List using ArrayList ( Simple update )">
+      <created>1632514823682</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1632514823683</updated>
+    </task>
+    <task id="LOCAL-00055" summary="ArrayList Search Elements">
+      <created>1633019437546</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1633019437546</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Interface Implementation for one Class">
+      <created>1633025029087</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1633025029087</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Interface Implementation checking with another class - MobilePhone">
+      <created>1633026886547</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1633026886547</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Basic Generics Implementation setup">
+      <created>1633043630934</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1633043630934</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Basic Generics Implementation - Object Autoboxing">
+      <created>1633044305092</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1633044305092</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Created own generic class">
+      <created>1633045448500</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1633045448500</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Created own generic class">
+      <created>1633045531170</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1633045531170</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Change parameter to &lt;T&gt; generic parameter on ArrayList">
+      <created>1633046467074</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1633046467074</updated>
+    </task>
+    <task id="LOCAL-00063" summary="All condition checked but Team different game Team conflict Still">
+      <created>1633047302828</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1633047302828</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Arithmetic exception check">
+      <created>1633981982564</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1633981982564</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Input char or int check">
+      <created>1633996248980</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1633996248980</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Traditional way how to construct objct in java">
+      <created>1634669408844</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1634669408845</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="com_testproject_in_Test_Spring_Boot_Project - 2021.01.09 at 22h 53m 43s.xml">
+      <configuration name="com.testproject in Test Spring Boot Project" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_testproject_in_Test_Spring_Boot_Project - 2021.01.09 at 22h 53m 58s.xml">
+      <configuration name="com.testproject in Test Spring Boot Project" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_testproject_in_Test_Spring_Boot_Project - 2021.01.09 at 22h 55m 24s.xml">
+      <configuration name="com.testproject in Test Spring Boot Project" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_testproject_in_Test_Spring_Boot_Project - 2021.01.09 at 23h 05m 39s.xml">
+      <configuration name="com.testproject in Test Spring Boot Project" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_testproject_in_Test_Spring_Boot_Project - 2021.01.09 at 23h 07m 11s.xml">
+      <configuration name="com.testproject in Test Spring Boot Project" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_testproject_in_Test_Spring_Boot_Project - 2021.01.09 at 23h 08m 32s.xml">
+      <configuration name="com.testproject in Test Spring Boot Project" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_testproject_in_Test_Spring_Boot_Project - 2021.01.09 at 23h 10m 12s.xml">
+      <configuration name="com.testproject in Test Spring Boot Project" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="201742000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1440" height="790" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49566475" visible="true" weight="0.20958512" />
+      <window_info id="Structure" order="1" sideWeight="0.5043353" side_tool="true" visible="true" weight="0.20958512" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32803467" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3583815" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39739883" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32658958" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.27023122" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3236994" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Spring" order="15" />
+      <window_info anchor="bottom" id="Java Enterprise" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" visible="true" weight="0.3297568" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.17411052" />
+      <window_info id="Structure" order="1" sideWeight="0.50214595" side_tool="true" weight="0.26037195" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31470588" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39739883" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32803467" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.325" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="University Mock Test task check lower triangular in array" />
+    <MESSAGE value="University Mock Test task check diagonal in array" />
+    <MESSAGE value="reference in memory" />
+    <MESSAGE value="has a relation in composition OOP" />
+    <MESSAGE value="Spring Boot Project file  created" />
+    <MESSAGE value="index page created" />
+    <MESSAGE value="created web controller" />
+    <MESSAGE value="Test project done and compiled successfully" />
+    <MESSAGE value="RestController annotation" />
+    <MESSAGE value="Implemented a method that returns how often a character is contained in a string" />
+    <MESSAGE value="String comparison with == &amp; equal" />
+    <MESSAGE value="Array practice -&gt; Input value from keyboard and find minimum value" />
+    <MESSAGE value="Code for making shopping list that will add,remove,modify,remove and search in List using ArrayList" />
+    <MESSAGE value="Code for making shopping list that will add,remove,modify,remove and search in List using ArrayList ( Simple update )" />
+    <MESSAGE value="ArrayList Search Elements" />
+    <MESSAGE value="Interface Implementation for one Class" />
+    <MESSAGE value="Interface Implementation checking with another class - MobilePhone" />
+    <MESSAGE value="Basic Generics Implementation setup" />
+    <MESSAGE value="Basic Generics Implementation - Object Autoboxing" />
+    <MESSAGE value="Created own generic class" />
+    <MESSAGE value="Change parameter to &lt;T&gt; generic parameter on ArrayList" />
+    <MESSAGE value="All condition checked but Team different game Team conflict Still" />
+    <MESSAGE value="Arithmetic exception check" />
+    <MESSAGE value="Input char or int check" />
+    <MESSAGE value="Traditional way how to construct obejct in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Traditional way how to construct obejct in java" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2D Array/src/self/Test.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Final Exam/src/exam.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Final Exam/src/exam.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Final Exam/src/exam.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array Practice/src/udemy/ArrayList/Main.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array Practice/src/udemy/ArrayList/Main.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Core_Java_Practice$com_testproject_in_Test_Spring_Boot_Project.ic" NAME="com.testproject in Test Spring Boot Project Coverage Results" MODIFIED="1610229210740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.testproject.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../Java Basic/mockExamSampleSolutions/mockExamTask3SampleSolution/Ballot.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2D Array/src/list/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/University Assignment/src/Assignment/Assignment2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-417">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/University Assignment/src/Assignment5/Assignment5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-387">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/University Assignment/src/Assignment4/Assignment4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1586">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Method Challange/src/com/ashiq/SumDigit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array Practice/src/moshLearning/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array Practice/src/moshLearning/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2D Array/src/geeksforgeeks/ArrayDeclaration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" selection-start-line="4" selection-start-column="8" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jagged Array/src/jaggedarray/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jagged Array/src/jaggedarray/MaxRowAndCol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jagged Array/src/jaggedarray/MaxElementOfColEach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/University Course Lecture &amp; Exercise/src/Exercise7/Task3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/University Course Lecture &amp; Exercise/src/Exercise7/Supermarket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sorting Algorithm/src/sort/Bubble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sorting Algorithm/src/sort/Selection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/University Course Lecture &amp; Exercise/src/Exercise7/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jagged Array/src/jaggedarray/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final Exam/src/task2.java" />
+    <entry file="file://$USER_HOME$/Downloads/Task2a.java" />
+    <entry file="file://$PROJECT_DIR$/Final Exam/src/exam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Main2a.java" />
+    <entry file="file://$USER_HOME$/Downloads/Task2b.java" />
+    <entry file="file://$USER_HOME$/Downloads/Main2b.java" />
+    <entry file="file://$PROJECT_DIR$/Final Exam/src/Task2b.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="49" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final Exam/src/Task2a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="58" lean-forward="true" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final Exam/src/task3.java" />
+    <entry file="file://$USER_HOME$/Downloads/List.java" />
+    <entry file="file://$USER_HOME$/Downloads/ProductType.java" />
+    <entry file="file://$USER_HOME$/Downloads/Record.java" />
+    <entry file="file://$USER_HOME$/Downloads/List(1).java" />
+    <entry file="file://$USER_HOME$/Downloads/Record(1).java" />
+    <entry file="file://$USER_HOME$/Downloads/ProductType(1).java" />
+    <entry file="file://$PROJECT_DIR$/Final Exam/src/Task4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Main3.java" />
+    <entry file="file://$PROJECT_DIR$/Final Exam/src/list/Record.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Task4.java" />
+    <entry file="file://$USER_HOME$/Downloads/Main4.java" />
+    <entry file="file://$PROJECT_DIR$/Final Exam/src/list/ProductType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked List/src/Telusko/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked List/src/Telusko/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/src/polymorphism/Ford.java" />
+    <entry file="file://$PROJECT_DIR$/Array Practice/src/udemy/ArrayList.java" />
+    <entry file="file://$PROJECT_DIR$/Final Exam/src/list/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final Exam/src/list/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/src/polymorphism/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="73" column="23" selection-start-line="73" selection-start-column="23" selection-end-line="73" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array Practice/src/udemy/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array Practice/src/udemy/Minimum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array Practice/src/udemy/ArrayList/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array Practice/src/udemy/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array Practice/src/udemy/ArrayList/GrocceryList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Practice Random</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
